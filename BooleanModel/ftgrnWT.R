@@ -2,6 +2,7 @@
 rm(list=ls())
 gc(reset = TRUE)
 #######Boolean Model attractors and comparison with gene expression data Figure 4 and Supplementary Figure 3
+####Requieres ftgrn.txt and expressiondata.csv
 library(BoolNet)
 library(BoolNetPerturb)
 library(gplots)
