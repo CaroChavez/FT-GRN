@@ -1,4 +1,6 @@
 # FT-GRN Boolean Model 
+Logic rules of the Flowering Transition GRN Boolean Model are in [ftgrn.txt](BooleanModel/ftgrn.txt) file.
+
 Data and Code for figures:
   * Figure 2.- Use [dataPrepToPlotGraph.R](BooleanModel/dataPrepToPlotGraph.R) to create [ftgrnGraph.csv](BooleanModel/ftgrnGraph.csv). This last file was used  to visualize the [FT-GRN graph](BooleanModel/ftgrnGraph.graphml) with [yED](https://www.yworks.com/products/yed).
   * Figure 4 and Supplementary Figure 3.- Use [ftgrnWT.R](ftgrnWT.R).
