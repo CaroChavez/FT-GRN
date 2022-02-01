@@ -1,6 +1,6 @@
 # FT-GRN Boolean Model 
 Data and Code for figures:
-  * Figure 2
+  * Figure 2.- Use [dataPrerToPlotGraph.R](BooleanModel/dataPrepToPlotGraph.R) to create [ftgrnGraph.csv](BooleanModel/ftgrnGraph.csv) that was used in [yED](https://www.yworks.com/products/yed) to visualize the [FT-GRN network](BooleanModel/ftgrnGraph.graphml)
   * Figure 4 and Supplementary Figure 3 uses [ftgrnWT.R](ftgrnWT.R)
   * Figure 6 and 7 
   * Supplementary Figure 2
